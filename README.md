@@ -1,3 +1,1 @@
-# jarvis
-Kurulum: https://youtu.be/6D136kF5dbs
-Hata alırsan izle: https://youtube.com/shorts/k19F0_xqfM4
+Bu jarvis modeli tarafımdan yeniden düzenlenerek windows a son derece uyumlu hale getirilmiştir
